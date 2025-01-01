@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/anuradha/Desktop/Numerical Lab",
       "program": "c:/Users/anuradha/Desktop/Numerical Lab/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/anuradha/Desktop/Numerical-Method",
+      "program": "c:/Users/anuradha/Desktop/Numerical-Method/build/Debug/outDebug",
+>>>>>>> 20594aceaed4b078c33b5fd760c25a475ba94373
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
